@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DarkGreen">#FF104801</color>
+    <color name="Green">#FF00FF00</color>
+    <color name="DarkRed">#FF820000</color>
+    <color name="Gelb">#FFEFD004</color>
+    <color name="Gelb2">#80EFD004</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#FFdcdcdc</color>
+    <color name="gray1">#FFacacac</color>
+    <color name="gray2">#FFcccccc</color>
+    <color name="color1">#FF00FFFF</color>
+    <color name="color2">#FFFF0000</color>
+    <color name="color3">#FF00FF00</color>
+    <color name="color4">#FF0000FF</color>
+    <color name="color5">#FFFF00FF</color>
+    <color name="color6">#FFFFEE00</color>
+    <color name="color7">#FFA050F0</color>
+    <color name="color8">#FFACDCBC</color>
+    <color name="Richtig0">#ABAB00</color>
+    <color name="Richtig1">#FFFF00</color>
+    <!-- color name="color1">#FFD71B3B</color>
+    <color name="color2">#FFe8d71e</color>
+    <color name="color3">#FF16aeea</color>
+    <color name="color4">#FF4203c9</color>
+    <color name="color5">#FF375e97</color>
+    <color name="color6">#FFfb6542</color>
+    <color name="color7">#FFffbb00</color>
+    <color name="color8">#FF3f681c</color>
+    <color name="color1">#FFef3224</color>
+    <color name="color2">#FFf99b1e</color>
+    <color name="color3">#FFf3eb3a</color>
+    <color name="color4">#FF62b146</color>
+    <color name="color5">#FF3e5eab</color>
+    <color name="color6">#FF7c3695</color>
+    <color name="color7">#FF</color>
+    <color name="color8">#FF</color -->
+</resources>

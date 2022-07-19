@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="1dp">
+
+    <TextView
+        android:id="@+id/Kopf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/DarkGreen"
+        android:text="@string/AnLeit"
+        android:textAllCaps="false"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        tools:context=".anleitung"
+        tools:ignore="UselessParent"/>
+
+    <TextView
+        android:id="@+id/Anleitung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Kopf"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:background="@color/gray"
+        android:textColor="@color/black"
+        android:text=""
+        android:textAllCaps="false"
+        android:textSize="14sp"
+        tools:context=".anleitung"
+        tools:ignore="UselessParent"/>
+
+    <Button
+        android:id="@+id/Warte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="18dp"
+        android:layout_below="@id/Anleitung"
+        android:text="@string/Warte"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

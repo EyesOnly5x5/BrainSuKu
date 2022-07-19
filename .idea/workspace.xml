@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="_device_class_phone" />
+        <target>android-29</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Debuggy" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/elmacro/.android/avd/Nexus_5X_API_26_x86.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BrainStorm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BrainStorm" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BrainStorm" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../MySigneds/BrainStorm.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="ArbeitsZweig" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1x8AjMqjjZxJebnBvnoeem9zzln" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="BrainStorm.app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="debug&#10;release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android-custom-view/opt/Android/sources/android-30/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout-xhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.eyesonly5x5.brainstorm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="BrainStorm.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Callstack Sample" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="" />
+      <created>1629726477167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629726477167</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Sudo-Kuh erstellen STuffe 4, mit DialogFeld 0-9">
+      <created>1633620319485</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1633620319485</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Sudo-Kuh Fast Fertig.">
+      <created>1633700906105</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1633700906106</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Sudo-Kuh Fast Fertig, Save-Load">
+      <created>1633969913814</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1633969913814</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Sudo-Kuh Fertig, incl. Save-Load">
+      <created>1634044559909</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1634044559910</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Sudo-Kuh Fertig, incl. Save-Load">
+      <created>1634044797897</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1634044797897</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Sudo-Kuh Fertig, incl. Save-Load">
+      <created>1634044949214</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1634044949214</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Sudo-Kuh Fertig, incl. Save-Load">
+      <created>1634048395372</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1634048395373</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Sudo-Kuh Fertig, incl. Save-Load">
+      <created>1634048478017</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1634048478017</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Solitaer start.">
+      <created>1634049429086</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1634049429087</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Solitaer start.">
+      <created>1634050082276</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1634050082276</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Solitaer start, Stuffe 1.">
+      <created>1634140757034</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1634140757035</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Solitaer start, Stuffe 2.">
+      <created>1634227117238</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1634227117239</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Solitaer start, Stuffe 3.">
+      <created>1634311741623</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1634311741624</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Solitaer start, Stuffe 4.">
+      <created>1634390468273</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1634390468273</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Solitaer start, Stuffe 5.">
+      <created>1634466048155</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1634466048156</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Solitaer start, Stuffe 6.">
+      <created>1634571904552</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1634571904553</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Solitaer start, Stuffe 7.">
+      <created>1635004608770</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1635004608771</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Solitaer start, Stuffe 8.">
+      <created>1635090539241</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1635090539242</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Bis Solitaer Fertig.">
+      <created>1635171725532</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1635171725533</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Start Memory.">
+      <created>1635173537024</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1635173537024</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Start Memory 1.">
+      <created>1635344040064</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1635344040064</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Start Memory 2.">
+      <created>1635351136932</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1635351136933</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Start Memory 3.">
+      <created>1635351918027</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1635351918027</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Start Memory 4.">
+      <created>1635437259930</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1635437259931</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Start Memory 5.">
+      <created>1635522233563</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1635522233564</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Start Memory 6.">
+      <created>1635609247340</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1635609247340</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Start Memory Fertig.">
+      <created>1635694640747</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1635694640747</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Start xXx Start.">
+      <created>1635786857835</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1635786857836</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Start Pos-I-Tron Stufe 1.">
+      <created>1635959955946</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1635959955946</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Start Pos-I-Tron Stufe 2.">
+      <created>1636036000496</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1636036000496</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Start Pos-I-Tron Fertig.">
+      <created>1636124665080</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1636124665080</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Start Anleitungen.">
+      <created>1636126448911</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1636126448911</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Anleitungen Fertig.">
+      <created>1636293874260</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1636293874260</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Größen anpassungen.">
+      <created>1636985890180</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1636985890181</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Größen anpassungen 3.">
+      <created>1650788572984</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1650788572985</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Größen anpassungen 4.">
+      <created>1650814354626</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1650814354626</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Größen anpassungen 5.">
+      <created>1650989804945</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1650989804945</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Größen anpassungen 6. SudoKuh Fertig.">
+      <created>1651042845834</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1651042845835</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Größen anpassungen 7. SolitaerHalma Fertig.">
+      <created>1651051815847</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1651051815847</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Größen anpassungen 7. SolitaerHalma Fertig.">
+      <created>1651062362429</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1651062362430</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Größen anpassungen 8. SudoKuh / SolitaerHalma Wirklich Fertig.">
+      <created>1651064884916</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1651064884916</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Größen anpassungen 9. NonoGram.">
+      <created>1651073271542</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1651073271543</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Größen anpassungen 10. NonoGram. Fertig">
+      <created>1651138906610</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1651138906611</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Größen anpassungen 11. SuppenHirn. EntelichFertig">
+      <created>1651143136177</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1651143136178</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Memory Überarbeitet.">
+      <created>1651163910578</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1651163910578</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Memory Überarbeitet. Hoffentlich Fertig.">
+      <created>1651220838583</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1651220838584</updated>
+    </task>
+    <task id="LOCAL-00095" summary="BrainSource Init">
+      <created>1657521656484</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1657521656485</updated>
+    </task>
+    <task id="LOCAL-00096" summary="BrainSource Überarbeitet">
+      <created>1657527012664</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1657527012664</updated>
+    </task>
+    <task id="LOCAL-00097" summary="BrainSource Überarbeitet 2">
+      <created>1657700798436</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1657700798437</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Start Memory 4." />
+    <MESSAGE value="Start Memory 5." />
+    <MESSAGE value="Start Memory 6." />
+    <MESSAGE value="Start Memory Fertig." />
+    <MESSAGE value="Start xXx Start." />
+    <MESSAGE value="Start Pos-I-Tron Stufe 1." />
+    <MESSAGE value="Start Pos-I-Tron Stufe 2." />
+    <MESSAGE value="Start Pos-I-Tron Fertig." />
+    <MESSAGE value="Start Anleitungen." />
+    <MESSAGE value="Anleitungen Fertig." />
+    <MESSAGE value="Größen anpassungen." />
+    <MESSAGE value="Größen anpassungen 3." />
+    <MESSAGE value="Größen anpassungen 4." />
+    <MESSAGE value="Größen anpassungen 5." />
+    <MESSAGE value="Größen anpassungen 6. SudoKuh Fertig." />
+    <MESSAGE value="Größen anpassungen 7. SolitaerHalma Fertig." />
+    <MESSAGE value="Größen anpassungen 8. SudoKuh / SolitaerHalma Wirklich Fertig." />
+    <MESSAGE value="Größen anpassungen 9. NonoGram." />
+    <MESSAGE value="Größen anpassungen 10. NonoGram. Fertig" />
+    <MESSAGE value="Größen anpassungen 11. SuppenHirn. EntelichFertig" />
+    <MESSAGE value="Memory Überarbeitet." />
+    <MESSAGE value="Memory Überarbeitet. Hoffentlich Fertig." />
+    <MESSAGE value="BrainSource Init" />
+    <MESSAGE value="BrainSource Überarbeitet" />
+    <MESSAGE value="BrainSource Überarbeitet 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="BrainSource Überarbeitet 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/Globals.java</url>
+          <line>334</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainstorm/SudokuActivity.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
