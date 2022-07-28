@@ -57,18 +57,6 @@
     <string name="Punkte">Punkte:</string>
     <string name="Loesung"></string>
     <string name="neuSt">Neu Start</string>
-    <string name="AnleitSuppa">
-        SuppaHirn, SupraHirni\n\nEs gilt die farben herauszufinden.\n
-        Einfaches MasterMind sprich Superhirn.
-    </string>
-    <string name="AnleitNonoG">
-        Nonogram\n\nEs gilt das muster herauszufinden.\n
-        Die zahlen am rand geben an, wieviele punkte ohne leerraum gesetzt sind.\n\n
-        bsp.: 1-1-1 = RgRgR / 2-2 = RRgRR\n1-1 = RgRgg oder gRgRg oder ggRgR\n
-        -----\n
-        Meine Amazon Wunschliste: https://ogy.de/hiaq\n
-        Wer möchte und kann, darf mir gerne etwas von meiner Wunschliste zukommen lassen, oder auch nicht.
-    </string>
     <string name="AnleitSudoK">
         SudoKuh\n\nIst wohl keine anleitung nötig.\nEinfach nur Sudoku.\nZahlen von 1 bis 9 so verteile
         n das keine 2 identische ziffern horizontal, vertikal oder in einem 9ner block sind.\n
@@ -76,22 +64,7 @@
         Meine Amazon Wunschliste: https://ogy.de/hiaq\n
         Wer möchte und kann, darf mir gerne etwas von meiner Wunschliste zukommen lassen, oder auch nicht.
     </string>
-    <string name="AnleitSoli">
-        Solitär-Halma\n\nübersprungene stecker werden vom spielfeld entfernt, bis am ende kein weiterer sprung mehr möglich ist. gewonnen hat man, wenn nur noch 1 stecker auf dem spielfeld verbleibt.\n
-        -----\n
-        Meine Amazon Wunschliste: https://ogy.de/hiaq\n
-        Wer möchte und kann, darf mir gerne etwas von meiner Wunschliste zukommen lassen, oder auch nicht.
-    </string>
-    <string name="AnleitMemo">
-        Memory\n\nFinde 2 gleiche und die Niete.\n\nNiete zum ersten mal gefunden +2 Punkte, jedes weitere mal 1 Punkt abzug.\n
-        Jedesmal wenn nach einem Treffer ein erneuter Treffer folgt gibt es einen Punkt mehr. Kein Treffer gibt 1 Punkt abzug.\n
-        -----\n
-        Meine Amazon Wunschliste: https://ogy.de/hiaq\n
-        Wer möchte und kann, darf mir gerne etwas von meiner Wunschliste zukommen lassen, oder auch nicht.
-    </string>
-    <string name="AnleitPIT">
-        Pos-I-Tron\n\nOrdne alles so an das weder Horizontal noch vertikal, form und farbe doppelt vorkommt.\n
-        -----\n
+    <string name="Wunschliste">\n-----\n
         Meine Amazon Wunschliste: https://ogy.de/hiaq\n
         Wer möchte und kann, darf mir gerne etwas von meiner Wunschliste zukommen lassen, oder auch nicht.
     </string>

@@ -1,2 +1,2 @@
-rootProject.name = "BrainStorm"
+rootProject.name = "BrainSuKu"
 include ':app'

@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BrainStorm.iml" filepath="$PROJECT_DIR$/.idea/BrainStorm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainStorm.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BrainSuKu.iml" filepath="$PROJECT_DIR$/.idea/modules/BrainSuKu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BrainSuKu.app.unitTest.iml" />
     </modules>
   </component>
 </project>
