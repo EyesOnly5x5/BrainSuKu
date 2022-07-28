@@ -141,7 +141,7 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setText(R.string.title10);
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.Richtig1));
-                        oView.setTextSize(getResources().getDimension(R.dimen.NonoLogo)*2);
+                        oView.setTextSize(getResources().getDimension(R.dimen.SudoLogo));
                         oView.setGravity(Gravity.CENTER);
                         oView.setId(TEXT_IDS[c]);
                         param.height = (int) getResources().getDimension(R.dimen.NonoNG);
@@ -150,7 +150,7 @@ public class SudokuActivity extends AppCompatActivity {
                     }
                     param.width = GridLayout.LayoutParams.MATCH_PARENT;
                     param.setGravity( Gravity.CENTER );
-                    param.topMargin = 25;
+                    param.topMargin = 5;
                     param.bottomMargin = 25;
                 } else continue;
             } else if( r==3 ){
@@ -176,7 +176,7 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setTag(i2);
                         oView.setText("" + i2);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.white));
-                        oView.setTextSize( (getResources().getDimension(R.dimen.SudoLogo)/2)*daten.getMetrics().getFaktor() );
+                        oView.setTextSize( ((getResources().getDimension(R.dimen.SudoLogo)/2)*daten.getMetrics().getFaktor()) -2 );
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setBackgroundResource(R.drawable.round_btn_1);
                         if (daten.getSudoK0(derButton) == i2)
@@ -239,7 +239,7 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setId(BUTTON_IDS[quad[(c2 + (3 * r2))]]);
                         oView.setTag(BUTTON_IDS[quad[(c2 + (3 * r2))]]);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.white));
-                        oView.setTextSize((getResources().getDimension(R.dimen.SudoLogo) / 2) * daten.getMetrics().getFaktor());
+                        oView.setTextSize(((getResources().getDimension(R.dimen.SudoLogo) / 2) * daten.getMetrics().getFaktor())-10);
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setBackgroundResource(R.drawable.round_btn_1);
                         param2.height = (int) (getResources().getDimension(R.dimen.SudoBut) * daten.getMetrics().getFaktor());

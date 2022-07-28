@@ -22,9 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView AusG = findViewById(R.id.Kopf);
         AusG.setText(getString(R.string.title1));
-        AusG.setTextSize( daten.getMetrics().pxToDp((int)(AusG.getTextSize()*daten.getMetrics().getFaktor())) );
-        AusG = findViewById(R.id.NonoGram);
-        AusG.setTextSize( daten.getMetrics().pxToDp((int)(AusG.getTextSize()*daten.getMetrics().getFaktor())) );
+        // AusG.setTextSize( daten.getMetrics().pxToDp((int)(AusG.getTextSize()*daten.getMetrics().getFaktor())) );
         daten.setSoundBib(true,new Globals.SoundBib( true,this));
         daten.setSoundBib(false,new Globals.SoundBib( false,this));
 

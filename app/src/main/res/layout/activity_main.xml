@@ -31,143 +31,10 @@
         android:textStyle="bold|italic" />
 
     <RelativeLayout
-        android:id="@+id/butty2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/iView"
-        android:gravity="center_horizontal">
-
-        <Button
-            android:id="@+id/SupaHirn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="@string/title6"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/SupraHirni"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:layout_toEndOf="@id/SupaHirn"
-            android:text="@string/title7"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:id="@+id/nixy"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/butty2"
-        android:gravity="center_horizontal">
-
-        <TextView
-            android:id="@+id/NonoGram"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:gravity="center"
-            android:text="@string/title8"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:id="@+id/butty3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/nixy"
-        android:gravity="center_horizontal">
-
-        <Button
-            android:id="@+id/NonoG5"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="@string/title8a"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/NonoG6"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:layout_toEndOf="@id/NonoG5"
-            android:text="@string/title8b"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/NonoG7"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:layout_toEndOf="@id/NonoG6"
-            android:text="@string/title8c"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/NonoG8"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/NonoG5"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="@string/title8d"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/NonoG9"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/NonoG6"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:layout_toEndOf="@id/NonoG8"
-            android:text="@string/title8e"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <Button
-            android:id="@+id/NonoG10"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/NonoG7"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:layout_toEndOf="@id/NonoG9"
-            android:text="@string/title8f"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </RelativeLayout>
-
-    <RelativeLayout
         android:id="@+id/nixy1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/butty3"
+        android:layout_below="@id/iView"
         android:gravity="center_horizontal">
 
         <TextView
@@ -181,6 +48,7 @@
             android:textAllCaps="false"
             android:textSize="0sp"
             android:textStyle="" />
+
     </RelativeLayout>
 
     <RelativeLayout
@@ -200,63 +68,7 @@
             android:textAllCaps="false"
             android:textSize="20sp"
             android:textStyle="bold" />
-    </RelativeLayout>
 
-    <RelativeLayout
-        android:id="@+id/butty5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/butty4"
-        android:gravity="center_horizontal">
-
-        <Button
-            android:id="@+id/Solitar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="@string/title11"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:id="@+id/butty6"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/butty5"
-        android:gravity="center_horizontal">
-
-        <Button
-            android:id="@+id/Memory"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="@string/title12"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:id="@+id/butty7"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/butty6"
-        android:gravity="center_horizontal">
-
-        <Button
-            android:id="@+id/PIT"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="@string/title13"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            android:textStyle="bold" />
     </RelativeLayout>
 
 </RelativeLayout>
