@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sudoku.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sudoku.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +120,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-view/opt/Android/sources/android-30/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BrainStorm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -146,8 +142,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="BrainSuKu.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="BrainSuKu.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -225,13 +221,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629726477167</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Sudo-Kuh Fast Fertig.">
-      <created>1633700906105</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1633700906106</updated>
     </task>
     <task id="LOCAL-00051" summary="Sudo-Kuh Fast Fertig, Save-Load">
       <created>1633969913814</created>
@@ -569,12 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1659014583371</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Paket layoutanpassung">
+      <created>1659017034282</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1659017034282</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Start Memory 5." />
     <MESSAGE value="Start Memory 6." />
     <MESSAGE value="Start Memory Fertig." />
     <MESSAGE value="Start xXx Start." />
@@ -599,7 +594,8 @@
     <MESSAGE value="BrainSource Überarbeitet" />
     <MESSAGE value="BrainSource Überarbeitet 2" />
     <MESSAGE value="Paket brainstorm nach brainsuku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paket brainstorm nach brainsuku" />
+    <MESSAGE value="Paket layoutanpassung" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paket layoutanpassung" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
