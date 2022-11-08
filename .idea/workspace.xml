@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +34,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/elmacro/.android/avd/Nexus_5X_API_26_x86.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KKMN191228018451]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -227,13 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629726477167</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Sudo-Kuh Fertig, incl. Save-Load">
-      <created>1634048395372</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1634048395373</updated>
     </task>
     <task id="LOCAL-00056" summary="Sudo-Kuh Fertig, incl. Save-Load">
       <created>1634048478017</created>
@@ -571,12 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1667293014479</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="License hinzugefügt.">
+      <created>1667299095023</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1667299095023</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Start Pos-I-Tron Stufe 1." />
     <MESSAGE value="Start Pos-I-Tron Stufe 2." />
     <MESSAGE value="Start Pos-I-Tron Fertig." />
     <MESSAGE value="Start Anleitungen." />
@@ -601,17 +604,7 @@
     <MESSAGE value="ic_launcher* logos angebasst." />
     <MESSAGE value="Sudokuh spielfäche angepasst." />
     <MESSAGE value="readme.md hinzugefügt." />
-    <option name="LAST_COMMIT_MESSAGE" value="readme.md hinzugefügt." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java</url>
-          <line>124</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="License hinzugefügt." />
+    <option name="LAST_COMMIT_MESSAGE" value="License hinzugefügt." />
   </component>
 </project>

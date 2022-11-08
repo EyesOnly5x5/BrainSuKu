@@ -176,7 +176,7 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setTag(i2);
                         oView.setText("" + i2);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.white));
-                        oView.setTextSize( ((getResources().getDimension(R.dimen.SudoLogo)/2)*daten.getMetrics().getFaktor()) -2 );
+                        oView.setTextSize( getResources().getDimension(R.dimen.NonoTxt) );
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setBackgroundResource(R.drawable.round_btn_1);
                         if (daten.getSudoK0(derButton) == i2)
@@ -239,7 +239,7 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setId(BUTTON_IDS[quad[(c2 + (3 * r2))]]);
                         oView.setTag(BUTTON_IDS[quad[(c2 + (3 * r2))]]);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.white));
-                        oView.setTextSize(((getResources().getDimension(R.dimen.SudoLogo) / 2) * daten.getMetrics().getFaktor())-10);
+                        oView.setTextSize( getResources().getDimension(R.dimen.NonoTxt) );
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setBackgroundResource(R.drawable.round_btn_1);
                         param2.height = (int) (getResources().getDimension(R.dimen.SudoBut) * daten.getMetrics().getFaktor());

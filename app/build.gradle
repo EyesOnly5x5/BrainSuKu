@@ -14,7 +14,9 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
-
+    lintOptions {
+        baseline file("lint-baseline.xml")
+    }
     buildTypes {
         release {
             minifyEnabled false
