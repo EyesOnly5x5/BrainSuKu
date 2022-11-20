@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MyDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KKMN191228018451]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/elmacro/.android/avd/CubotKingKongMini_API_28.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -231,13 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629726477167</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Sudo-Kuh Fertig, incl. Save-Load">
-      <created>1634048478017</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1634048478017</updated>
     </task>
     <task id="LOCAL-00057" summary="Solitaer start.">
       <created>1634049429086</created>
@@ -575,12 +569,18 @@
       <option name="project" value="LOCAL" />
       <updated>1667299095023</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="TextGrösse angepasst">
+      <created>1667921763457</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1667921763457</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Start Pos-I-Tron Stufe 2." />
     <MESSAGE value="Start Pos-I-Tron Fertig." />
     <MESSAGE value="Start Anleitungen." />
     <MESSAGE value="Anleitungen Fertig." />
@@ -605,6 +605,7 @@
     <MESSAGE value="Sudokuh spielfäche angepasst." />
     <MESSAGE value="readme.md hinzugefügt." />
     <MESSAGE value="License hinzugefügt." />
-    <option name="LAST_COMMIT_MESSAGE" value="License hinzugefügt." />
+    <MESSAGE value="TextGrösse angepasst" />
+    <option name="LAST_COMMIT_MESSAGE" value="TextGrösse angepasst" />
   </component>
 </project>

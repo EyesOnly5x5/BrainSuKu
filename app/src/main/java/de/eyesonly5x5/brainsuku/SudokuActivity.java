@@ -120,6 +120,9 @@ public class SudokuActivity extends AppCompatActivity {
 
         gridLayout.removeAllViews();
 
+        int textSize = daten.getMetrics().getTextSize();
+        int buttonSize = daten.getMetrics().getButtonSize( 9, 16, 50 * daten.getMetrics().getDensity() );// * daten.getMetrics().getDensity() );
+
         int column = 1;
         int row = 5;
         int total = row*column;
@@ -141,7 +144,7 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setText(R.string.title10);
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.Richtig1));
-                        oView.setTextSize(getResources().getDimension(R.dimen.SudoLogo));
+                        oView.setTextSize(textSize*2);
                         oView.setGravity(Gravity.CENTER);
                         oView.setId(TEXT_IDS[c]);
                         param.height = (int) getResources().getDimension(R.dimen.NonoNG);
@@ -176,20 +179,19 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setTag(i2);
                         oView.setText("" + i2);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.white));
-                        oView.setTextSize( getResources().getDimension(R.dimen.NonoTxt) );
+                        oView.setTextSize( textSize );
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setBackgroundResource(R.drawable.round_btn_1);
                         if (daten.getSudoK0(derButton) == i2)
                             oView.setBackgroundResource(R.drawable.round_btn_3);
-                        param2.height = (int) (getResources().getDimension(R.dimen.SudoBut) * daten.getMetrics().getFaktor());
-                        param2.width = (int) (getResources().getDimension(R.dimen.SudoBut) * daten.getMetrics().getFaktor());
+                        param2.height = buttonSize;
+                        param2.width = buttonSize;
                         oView.setPadding(0, 0, 0, 0);
                         final int ii = i2;
                         oView.setOnClickListener(view -> {
                             findViewById( 90+nrButton ).setBackgroundResource(R.drawable.round_btn_1);
                             nrButton = ii;
                             findViewById( 90+nrButton ).setBackgroundResource(R.drawable.round_btn_3);
-                            //daten.buttons.get(90+nrButton).setBackgroundResource(R.drawable.round_btn_3);
                         });
 
                         oView.setGravity(Gravity.CENTER);
@@ -239,11 +241,11 @@ public class SudokuActivity extends AppCompatActivity {
                         oView.setId(BUTTON_IDS[quad[(c2 + (3 * r2))]]);
                         oView.setTag(BUTTON_IDS[quad[(c2 + (3 * r2))]]);
                         oView.setTextColor(oView.getContext().getResources().getColor(R.color.white));
-                        oView.setTextSize( getResources().getDimension(R.dimen.NonoTxt) );
+                        oView.setTextSize( textSize );
                         oView.setTypeface(Typeface.DEFAULT_BOLD);
                         oView.setBackgroundResource(R.drawable.round_btn_1);
-                        param2.height = (int) (getResources().getDimension(R.dimen.SudoBut) * daten.getMetrics().getFaktor());
-                        param2.width = (int) (getResources().getDimension(R.dimen.SudoBut) * daten.getMetrics().getFaktor());
+                        param2.height = buttonSize;
+                        param2.width = buttonSize;
                         oView.setGravity(Gravity.CENTER);
                         oView.setPadding(0, 0, 0, 0);
                         gL2.addView(oView, param2);

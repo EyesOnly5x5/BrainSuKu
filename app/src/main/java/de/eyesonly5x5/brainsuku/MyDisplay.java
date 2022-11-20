@@ -32,8 +32,27 @@ public class MyDisplay {
     public int getButtonSize( int lang ){
         return( (int) (getMinPixels() / (Math.sqrt(lang)+2)) );
     }
+    public int getButtonSize( int lang, int margin ){
+        return( getButtonSize( lang, margin, 0 ) );
+    }
+
+    public int getButtonSize( int lang, int margin, int rand ){
+        return( (int) ((getMinPixels()-rand-(margin*lang)) / lang) );
+    }
     public void setWoMischen( String wert ){ woMischen = wert; }
     public String getWoMischen( ){ return( woMischen ); }
+
+    public double getScreenSize() {
+        double ySize = metrics.heightPixels / metrics.ydpi;
+        double xSize = metrics.widthPixels / metrics.xdpi;
+
+        // Bildschirmgrösse in Zoll
+        return( Math.sqrt(xSize * xSize + ySize * ySize) );
+    }
+
+    public int getTextSize(){
+        return((int) getScreenSize()*4);
+    }
 
     public int pxToDp(int px) { return (int) (px / metrics.density); }
     public int dpToPx(int dp) { return (int) (dp * metrics.density); }
