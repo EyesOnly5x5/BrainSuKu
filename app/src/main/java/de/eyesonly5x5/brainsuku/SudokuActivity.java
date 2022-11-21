@@ -121,7 +121,7 @@ public class SudokuActivity extends AppCompatActivity {
         gridLayout.removeAllViews();
 
         int textSize = daten.getMetrics().getTextSize();
-        int buttonSize = daten.getMetrics().getButtonSize( 9, 16, 50 * daten.getMetrics().getDensity() );// * daten.getMetrics().getDensity() );
+        int buttonSize = daten.getMetrics().getButtonSize( 9, 16, 40 * daten.getMetrics().getDensity() );// * daten.getMetrics().getDensity() );
 
         int column = 1;
         int row = 5;
