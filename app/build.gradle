@@ -6,7 +6,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "de.eyesonly5x5.brainsuku"
+        applicationId "io.github.eyesonly5x5"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainsuku;
+package io.github.eyesonly5x5;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -7,6 +7,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import de.eyesonly5x5.brainsuku.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -6,7 +6,7 @@
     android:gravity="center_horizontal"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    tools:context=".MainActivity">
+    tools:context="io.github.eyesonly5x5.MainActivity">
 
     <ImageView
         android:id="@+id/iView"

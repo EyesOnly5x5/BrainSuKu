@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainsuku;
+package io.github.eyesonly5x5;
 
 import android.annotation.SuppressLint;
 import android.app.Dialog;
@@ -20,6 +20,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
+
+import de.eyesonly5x5.brainsuku.R;
 
 public class Globals  extends ListActivity {
     @SuppressLint("StaticFieldLeak")

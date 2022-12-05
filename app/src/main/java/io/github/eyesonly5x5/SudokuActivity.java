@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainsuku;
+package io.github.eyesonly5x5;
 
 import android.annotation.SuppressLint;
 import android.graphics.Typeface;
@@ -12,6 +12,8 @@ import android.widget.GridLayout;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import de.eyesonly5x5.brainsuku.R;
 
 public class SudokuActivity extends AppCompatActivity {
     Globals daten = Globals.getInstance();

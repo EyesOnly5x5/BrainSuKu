@@ -1,4 +1,4 @@
-package de.eyesonly5x5.brainsuku;
+package io.github.eyesonly5x5;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -8,6 +8,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
+
+import de.eyesonly5x5.brainsuku.R;
 
 public class MischButton extends Fragment {
     // The onCreateView method is called when Fragment should create its View object hierarchy,

@@ -7,7 +7,7 @@
     android:gravity="center_horizontal"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    tools:context=".SudokuActivity">
+    tools:context="io.github.eyesonly5x5.SudokuActivity">
 
     <TextView
         android:id="@+id/First"

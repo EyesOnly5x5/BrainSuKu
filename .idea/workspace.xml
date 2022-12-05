@@ -21,6 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="abfb1ea1-b31d-4b67-ba76-4df93fcb9f09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/Globals.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/Globals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MischButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/MischButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/MyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/MyDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/de/eyesonly5x5/brainsuku/SudokuActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/github/eyesonly5x5/SudokuActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sudoku.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sudoku.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,13 +236,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629726477167</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Solitaer start.">
-      <created>1634050082276</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1634050082276</updated>
     </task>
     <task id="LOCAL-00059" summary="Solitaer start, Stuffe 1.">
       <created>1634140757034</created>
@@ -571,12 +573,18 @@
       <option name="project" value="LOCAL" />
       <updated>1668950928739</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="kleinere anpassungen.">
+      <created>1669030520729</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1669030520730</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Start Anleitungen." />
     <MESSAGE value="Anleitungen Fertig." />
     <MESSAGE value="Größen anpassungen." />
     <MESSAGE value="Größen anpassungen 3." />
@@ -601,6 +609,7 @@
     <MESSAGE value="License hinzugefügt." />
     <MESSAGE value="TextGrösse angepasst" />
     <MESSAGE value="Grösse angepasst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grösse angepasst" />
+    <MESSAGE value="kleinere anpassungen." />
+    <option name="LAST_COMMIT_MESSAGE" value="kleinere anpassungen." />
   </component>
 </project>
